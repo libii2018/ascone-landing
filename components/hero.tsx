@@ -25,10 +25,10 @@ export function Hero() {
               money.
             </p>
 
-            <div className="flex flex-row gap-4 items-center justify-start">
+            <div className="flex flex-row gap-8 items-center justify-start">
               <Button
                 size="lg"
-                className="bg-[#004337] hover:bg-[#004337]/90 rounded-3xl"
+                className="bg-[#004337] hover:bg-[#004337]/90 rounded-[30px] h-14 text-lg"
               >
                 Get Started Now
               </Button>

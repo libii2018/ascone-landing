@@ -13,7 +13,7 @@ import Link from "next/link";
 
 export function Pricing() {
   return (
-    <div className="container h-auto mx-auto py-24">
+    <div className="container h-auto mx-auto max-w-[640px] md:max-w-[768px] lg:max-w-[1200px] py-24">
       <div className="mx-auto max-w-3xl space-y-8">
         <div className="space-y-4 text-center">
           <div className="text-sm font-medium text-[#004337]">
