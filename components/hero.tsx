@@ -57,7 +57,7 @@ export function Hero() {
             </div>
           </div>
         </div>
-        <div className="relative w-full grid grid-cols-2 grid-rows-2 h-[550px]">
+        <div className="relative w-full grid grid-cols-2 grid-rows-2 h-[600px]">
           <div className="bg-slate-300 flex flex-col items-end gap-4 justify-start p-10">
             <div className="bg-white md:w-20 md:h-3 w-16 h-2"></div>
             <div className="bg-white md:w-8 md:h-3  w-7 h-2"></div>
@@ -95,14 +95,14 @@ export function Hero() {
                 </div>
                 <div className="md:w-11 md:h-11 w-8 h-8  -translate-x-3 rounded-[100%] overflow-hidden border-2 border-white">
                   <img
-                    src="/images/person1.jpg"
+                    src="/images/person2.jpg"
                     alt="Person 2"
                     className="w-full h-full object-cover"
                   />
                 </div>
                 <div className="md:w-11 md:h-11 w-8 h-8  -translate-x-6 rounded-[100%] overflow-hidden border-2 border-white">
                   <img
-                    src="/images/person1.jpg"
+                    src="/images/person3.jpg"
                     alt="Person 3"
                     className="w-full h-full object-cover"
                   />
